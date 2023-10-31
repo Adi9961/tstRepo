@@ -19,6 +19,7 @@ public class CourseController {
 	CourseRepository courseRepository;
 
 	JdbcTemplate jdbc;
+	//Below mentioned API is to fetch courses
 
 	@GetMapping("/courses")
 	public List<Course> getAllCourses() {
