@@ -27,6 +27,11 @@ public class CourseController {
 	public List<Course> getAllCourses() {
 		return courseRepository.findAll();
 	}
+	
+	@GetMapping("/co")
+	public List<Course> getAllData() {
+		return courseRepository.findAll();
+	}
 
 	@GetMapping("/start")
 	public String startProject() {
