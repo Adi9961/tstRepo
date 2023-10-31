@@ -12,7 +12,7 @@ import com.springBoot.learnSpringBoot.courses.bean.Course;
 import com.springBoot.learnSpringBoot.courses.repository.CourseRepository;
 
 @RestController
-@RequestMapping("/rest/spring/C")
+@RequestMapping("/rest/spring")
 public class CourseController {
 	
 	//This is course controller
