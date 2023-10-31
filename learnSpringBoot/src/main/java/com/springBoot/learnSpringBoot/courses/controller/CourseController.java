@@ -37,7 +37,7 @@ public class CourseController {
 	public String startProject() {
 
 		System.out.println("Developer of the application is :Aditya Gupta");
-		System.out.println("For testing purpose");
+		System.out.println("For testing purpose for specefic feature.");
 		System.out.println("This application is under development by latestTech...");
 		return "Hi this is the intial stage of the spring project by latestTech and all the backend API dvelopment would be manged here..";
 	}
