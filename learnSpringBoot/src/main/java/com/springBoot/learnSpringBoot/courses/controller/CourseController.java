@@ -14,6 +14,8 @@ import com.springBoot.learnSpringBoot.courses.repository.CourseRepository;
 @RestController
 @RequestMapping("/rest/spring")
 public class CourseController {
+	
+	//This is course controller
 
 	@Autowired
 	CourseRepository courseRepository;
