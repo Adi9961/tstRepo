@@ -1,3 +1,1 @@
 Text file document
-for testing purpose
-for QT AS
