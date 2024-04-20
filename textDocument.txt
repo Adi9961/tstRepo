@@ -1,1 +1,1 @@
-Text file document for remote server.
+Text file document for remote server for git.
